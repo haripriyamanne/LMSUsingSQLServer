@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LibraryManagementSystem">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="COGNINE-L25\SQLEXPRESS:COGNINE-L25\l">
+          <Created>2021-05-17T22:26:13.5089395+05:30</Created>
+          <Type>SQL</Type>
+          <Server>COGNINE-L25\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AssignBook.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-L25\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-L25\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AssignBook.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertBookProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-L25\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-L25\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertBookProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ReturnBook.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-L25\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-L25\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ReturnBook.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StudentBookTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-L25\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-L25\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StudentBookTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UpdateTriggerBookAssign.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COGNINE-L25\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COGNINE-L25\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UpdateTriggerBookAssign.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
